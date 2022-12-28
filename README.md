@@ -1,1 +1,1 @@
-# ImageEditor
+# ImageEditor Application
